@@ -352,10 +352,4 @@ Proprietary — Built for client design system extraction.
 
 ## 📞 Support
 
-For issues, questions, or feature requests, refer to the troubleshooting section above or contact the development team.
-
----
-
-**Version:** 1.0.0  
-**Last Updated:** March 2026  
-**Status:** Production Ready ✅
+For issues, questions, or feature requests, refer to the troubleshooting section above or contact me
