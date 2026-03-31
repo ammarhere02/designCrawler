@@ -5,7 +5,6 @@ An AI-ready web design extraction tool built with **Playwright**. Crawls any web
 **Perfect for:** Design system extraction, UI component cataloging, design-to-code handoff, and rapid LLM-powered UI replication.
 
 ---
-
 ## ✨ Features
 
 - 🔍 **Automated Design Extraction** — Extracts colors, typography, spacing, shadows, and animations from live websites
